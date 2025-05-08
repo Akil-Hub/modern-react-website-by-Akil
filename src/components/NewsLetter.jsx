@@ -5,7 +5,7 @@ import { scale } from '@/utilits/motion'
 
 const NewsLetter = () => {
   return (
-    <section className='container mx-auto px-4 sm:px-6 lg:px-8 py-10 md:max-w-6xl' id='newsLetter'>
+    <section className='container mx-auto px-4 sm:px-6 lg:px-8 py-10 md:max-w-6xl' >
       <motion.div
       variants={scale(0.2)}
                   initial="hidden"
