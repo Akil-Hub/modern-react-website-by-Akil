@@ -33,7 +33,7 @@ const Hero = () => {
           {' '}
           We boost the growth for{' '}
           <span className="bg-gradient-to-r from-blue-500 to-blue-800 bg-clip-text text-transparent relative ">
-            Startup to Fortune 500
+            Startup to Fortune 700
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-blue-200/60 "></span>
           </span>{' '}
           Companies<span className="inline-block  animate-pulse">⏰</span>{' '}
